@@ -55,6 +55,10 @@ function App() {
         ))}
         <button onClick={handleSubmit}>Go</button>
       </div>}
+
+      <div className="playfield">
+        
+      </div>
     </>
   )
 }
